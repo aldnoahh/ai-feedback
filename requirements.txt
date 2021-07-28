@@ -1,0 +1,10 @@
+librosa
+torch
+transformers==4.8.2
+pydub
+numpy
+opencv-python
+dlib
+Soundfile
+pyloudnorm
+textstat
